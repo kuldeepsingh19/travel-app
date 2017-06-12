@@ -24,8 +24,8 @@ if(isset($fs3)){ ?>
 
 
 
-<link rel="stylesheet" id="genericons-css" href="img-w/themes/bookflyticket/genericons/genericons.css?ver=3.2" type="text/css" media="all">
-<link rel="stylesheet" id="twentyfifteen-style-css" href="img-w/themes/bookflyticket/style.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="img-w/themes//genericons/genericons.css?ver=3.2" type="text/css" media="all">
+<link rel="stylesheet" id="twentyfifteen-style-css" href="img-w/themes//style.css?ver=4.7.4" type="text/css" media="all">
 
 
 
@@ -189,16 +189,16 @@ footer.side-bar__bbbBanner.clickable {
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Cheap Air Tickets, Best On Call Deals, Bookflyticket.net</title>
+    <title>Cheap Air Tickets, Best On Call Deals, .net</title>
     
     <!--<link href='https://fonts.googleapis.com/css?family=Lato:300,400%7COpen+Sans:300,400,600' rel='stylesheet' type='text/css'>-->
    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Josefin+Slab" />
-    <link rel="stylesheet" href="img-w/themes/bookflyticket/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="img-w/themes//bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/ana-api.css">  
-    <link rel="stylesheet" href="img-w/themes/bookflyticket/assets/css/internal.css"> 
-    <link rel="stylesheet" href="img-w/themes/bookflyticket/assets/css/style.css">
+    <link rel="stylesheet" href="img-w/themes//assets/css/internal.css"> 
+    <link rel="stylesheet" href="img-w/themes//assets/css/style.css">
     <link rel="stylesheet" href="css/jquery-ui.min.css">
      <!--   <link rel="stylesheet" href="//flightsgogo.com/css/library/owl.carousel.css">
     <link rel="stylesheet" href="//flightsgogo.com/css/library/jquery.mb.YTPlayer.min.css">
@@ -336,18 +336,17 @@ footer.side-bar__bbbBanner.clickable {
        
         <header id="header" class="header" style="background-color: #fff;width: 100%;position:relative !important;top: 0;z-index: 999;border-bottom: 2px solid #0275b8;">
         <div class="container-fluid-abhi">
-          <div class="abhi-header-top" style="background-color: #515b5c;    width: 100%;    color: #fff;    font-size: 14px;    text-align: center;    font-family: sans-serif;    font-weight: 700;">Bookflyticket offers best Air Fares, Call Us Now, Get Guaranteed Best Air Fares, Toll-Free: 1-800-261-1917</div>
+          <div class="abhi-header-top" style="background-color: #515b5c;    width: 100%;    color: #fff;    font-size: 14px;    text-align: center;    font-family: sans-serif;    font-weight: 700;"> offers best Air Fares, Call Us Now, Get Guaranteed Best Air Fares,</div>
         </div>
             <div class="container">
                
                 <div class="logo float-left">
-                    <a href="http://Bookflyticket.net" title=""><img src="http://bookflyticket.net/img-w/themes/bookflyticket/assets/images/logo.png" alt="" style="width:250px;padding-top: 10px;"></a>
+                    <a href="http://.net" title=""><img src="http://.net/img-w/themes//assets/images/logo.png" alt="" style="width:250px;padding-top: 10px;"></a>
                 </div>                
                 <div style="float:right;" class="nav-c" id="navigation" data-menu-type="1200">
                     <div class="nav-inner">
                         <div class="tb">
                             <div class="tb-cell">
-                               <h2 style="color: #003b94;margin-top: 10px;">TOLL FREE : <a class="hapabitoll" href="tel:1-800-261-1917" style="color:#e92929;text-decoration: none;font-size: 33px; ">1-800-261-1917</a></h2>
                             </div>
                         </div>
                     </div>
