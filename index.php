@@ -178,469 +178,130 @@ background-color: #003b54!important;
             <div class="item">
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
               <div class="hovereffect">
-
-
-
-        <img class="img-responsive" src="img-w/themes//assets/images/the-emeralds-andaman.jpg" alt="">
-
-
-
+        <img class="img-responsive" src="img-w/themes/assets/images/the-emeralds-andaman.jpg" alt="">
             <div class="overlay">
-
-
-
                 <h3 style="text-align: center;">Garden City Bengaluru</h3>
-
-
-
         <p style="font-size: 14px;text-align: center;">  
-
-
-
                Work or fun, whatever be you reason to fly to the IT capital of India, we will get you booked on flights with great deals on Atlanta to Bangalore flights. 
-
-
-
           </p> 
-
-
-
                  <a href="flights-to-bangalore/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
     </div>
-
-
-
     </div>
-
-
-
             </div>
-
-
-
             <div class="item">
-
-
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
-
-
               <div class="hovereffect">
-
             <div class="overlay">
-
-
-
                 <h3 style="text-align: center;">Land Of Fun</h3>
-
-
-
         <p style="font-size: 14px;text-align: center;"> 
-
-
-
                Palm fringed coastlines, exotic beaches, lovely landscape, peace, tranquility and happening night life, Goa clearly makes for a fun-filled holiday haven. 
-
-
-
           </p> 
-
-
-
                 <a href="flights-to-goa/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
     </div>
-
-
-
     </div>
-
-
-
             </div>
-
-
-
-            
-
-
-
             <div class="item">
-
-
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
-
-
               <div class="hovereffect">
-
-
-
         <img class="img-responsive" src="img-w/themes/assets/images/santana-beach-resort.jpg" alt="">
-
-
-
             <div class="overlay">
-
-
-
                 <h3 style="text-align: center;">Istanbul</h3>
-
-
-
         <p style="font-size: 14px;text-align: center;">  
-
-
-
                 Grab our exclusive offers on flight ticket bookings. We offers cheap flight tickets to Istanbul, a historic city in turkey that has been ruled by many empires.
-
-
-
           </p> 
-
-
-
                   <a href="/eu/cheap-flights-to-istanbul/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
     </div>
-
-
-
     </div>
-
-
             </div>
-
             <div class="item">
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
               <div class="hovereffect">
-
         <img class="img-responsive" src="img-w/themes/assets/images/golden-temple.jpg" alt="">
-
             <div class="overlay">
-
                 <h3 style="text-align: center;">Golden Temple</h3>
-
         <p style="font-size: 14px;text-align: center;">  
                 Greet yourselves with a floral welcome and experience the all-time classic Golden Triangle by paying tribute to Sikhism's holiest shrine Golden temple and spiritualize yourselves. 
-
           </p> 
 
                  <a href="flights-to-amritsar/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
     </div>
-
     </div>
-
             </div>
-
       <div class="item">
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
               <div class="hovereffect">
         <img class="img-responsive" src="img-w/themes//assets/images/tiger-tour.jpg" alt="">
-
             <div class="overlay">
-
                 <h3 style="text-align: center;">Lonely Planet Europe</h3>
-
         <p style="font-size: 14px;text-align: center;">  
-
-
-
              We is offering exciting travel deals on flights to Europe. Grab this great opportunity to fly to all destinations of Europe at low prices. 
-
-
-
           </p> 
-
-
-
                <a href="http://Example.net/eu"> <button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
+		      </div>
     </div>
-
-
-
-    </div>
-
-
-
-              
-
-
-
             </div>  
-
-
-
-            
-
-
-
             <div class="item">
-
-
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
-
-
               <div class="hovereffect">
-
-
-
         <img class="img-responsive" src="img-w/themes//assets/images/amazing-leh.jpg" alt="">
-
-
-
             <div class="overlay">
-
-
-
                 <h3 style="text-align: center;">India's Financial Capital Mumbai</h3>
-
-
-
         <p style="font-size: 14px;text-align: center;">  
-
-
 
                 To get affordable flight deals to Mumbai, India book with us. We facilitate easy and quick flight bookings at affordable prices. The process is simple to book Mumbai's flight
-
-
-
           </p> 
-
-
-
                 <a href="http://Example.net/flights-to-mumbai/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button>
-
 </a>
-
             </div>
-
-
-
-
-
-
-
     </div>
-
-
-
     </div>
-
-
-
             </div>
-
-
-
              <div class="item">
-
-
-
               <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 full">
-
-
-
               <div class="hovereffect">
-
-
-
         <img class="img-responsive" src="img-w/themes//assets/images/dreams-of-himachal.jpg" alt="">
-
-
-
             <div class="overlay">
-
-
-
                 <h3 style="text-align: center;">Dreams of Amsterdam</h3>
-
-
-
         <p style="font-size: 14px;text-align: center;">  
-
-
-
                 Deservedly called a traveler's dream and paradise, wander in the Dreams of Amsterdam and be a part of the India's most favourite travel destination.
-
-
-
           </p> 
-
-
-
                  <a href="http://Example.net/eu/cheap-flights-to-amsterdam/index.html"><button class="custom-abhi-btn" id="myBtn" onclick ="abc()">Book Now</button></a>
-
-
-
             </div>
-
-
-
     </div>
-
-
-
     </div>
-
-
-
             </div>
-
-
-
-            
-
-
-
           </div>
-
-
-
         </div>
-
-
-
-        <!-- // End Slider -->
-
-
-
       </div>
-
-
-
     </div>
-
-
-
   </div>
-
-
-
-  </div>
-
-
-
 </section>
-
-
-
-
-
-
-
-<!-- The Modal -->
-
-
-
 <div id="myModal" class="modal">
-
-
-
-
-
-
-
-  <!-- Modal content -->
-
-
-
   <div class="modal-content clearfix">
-
-
-
   <div class="modal-header">
-
-
-
         <span class="close">x</span>
-
-
-
         <h4 class="modal-title">Customise your holiday packages</h4>
-
-
-
       </div>
-
-
-
     <div class="modal-body">
-
-
-
    <form id="common" method="post" action="http://www.Example.net/img-w/themes//home_search.php" enctype="multipart/form-data" >
-
-
-
     <div class="form-group clearfix">
-
-
-
     <div class="col-md-6 col-sm-6 col-xs-6">
-
-
-
       <input type="radio" name="searchfor" value="Honeymoon" id="honeymoon" checked> <label for="honeymoon">Honeymoon</label>
-
-
-
       </div>
-
-
-
        <div class="col-md-6 col-sm-6 col-xs-6">
-
-
-
   <input type="radio" name="searchfor" value="Leisure" id="leisure" > <label for="leisure">Leisure</label>
 
-
-
-    </div>
-
-
+	    </div>
 
     </div>
 
