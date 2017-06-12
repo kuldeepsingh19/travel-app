@@ -300,569 +300,134 @@ background-color: #003b54!important;
       </div>
        <div class="col-md-6 col-sm-6 col-xs-6">
   <input type="radio" name="searchfor" value="Leisure" id="leisure" > <label for="leisure">Leisure</label>
-
 	    </div>
-
     </div>
-
-
-
     <div class="form-group col-md-12">
-
-
-
     <input type="text" class="auto" name="goingto" placeholder="Going To" />
-
-
-
     </div>
-
-
-
     <div class="form-group col-md-12">
-
-
-
     <input type="text" class="auto" name="goingfrom"  placeholder="Going From" />
-
-
-
     </div>
-
-
-
     <div class="form-group col-md-12">
-
-
-
  <div class='input-group date' id='datetimepicker1'>
-
-
-
                     <input type='text' id="date1" name="travel_date" placeholder="Select Travel Date"/>
-
-
-
                     <span class="input-group-addon">
-
-
-
                         <span class="glyphicon glyphicon-calendar"></span>
-
-
-
                     </span>
-
-
-
                 </div>
-
-
-
     </div>
-
-
-
      <div class="form-group clearfix">
-
-
-
      <div class="col-md-4 col-sm-4 col-xs-4">
-
-
-
      <label>Adult</label>
-
-
-
      <select name="adults">
-
-
-
      <option>1</option>
-
-
-
      <option>2</option>
-
-
-
      <option>3</option>
-
-
-
      <option>4</option>
-
-
-
      </select>
-
-
-
      </div>
-
-
-
      <div class="col-md-4 col-sm-4 col-xs-4">
-
-
-
      <label>Childern</label>
-
-
-
      <select name="child">
-
-
-
      <option>1</option>
-
-
-
      <option>2</option>
-
-
-
      <option>3</option>
-
-
-
      <option>4</option>
-
-
-
      </select>
-
-
-
      </div>
-
-
-
      <div class="col-md-4 col-sm-4 col-xs-4">
-
-
-
      <label>Hotel</label>
-
-
-
     <select name="hotel">
-
-
-
      <option>5 Star</option>
-
-
-
      <option>4 Star</option>
-
-
-
      <option>3 Star</option>
-
-
-
      <option>2 Star</option>
-
-
-
      </select>
-
-
-
      </div>
-
-
-
      </div>
-
-
-
-      <div class="form-group col-md-6">
-
-
-
-    <input type="text" name="name"  placeholder="Name" />
-
-
-
-    </div>
-
-
-
      <div class="form-group col-md-6">
-
-
-
+     <input type="text" name="name"  placeholder="Name" />
+    </div>
+     <div class="form-group col-md-6">
     <input type="tel" name="contact"  placeholder="Contact" />
-
-
-
     </div>
-
-
-
      <div class="form-group col-md-12">
-
-
-
     <input type="email" name="email"   placeholder="Email" />
-
-
-
     </div>
-
-
-
     <div class="form-group">
-
-
-
     <button type="submit" class="btn btn-default submit" name="Search_Holiday">Submit</button>
-
-
-
     </div>
-
-
-
     </form>
-
-
-
-    
-
-
-
     </div>
-
-
-
-
-
-
-
-   
-
-
-
   </div>
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
 <section class="packages">
-
-
-
   <div class="container">
-
-
-
     <div class="packages-header">
-
-
-
       <h2 class="section-title" style="color:#fff;"><span class="light" style="color:#fff;"> We Are Happy To </span> Make You Happier</h2>
-
-
-
       <p  style="color:#fff;">The main reason why we're chosen by a large number of people for their travelling ventures to other countries is that we provide unmatched deals and packages. We unique selling point is the affordability of these plans. Our services include:</p>
-
-
-
     </div>
-
-
-
     <div class="packages-info">
-
-
-
       <div class="col-lg-3 col-md-3 margin-btm-mobile">
-
-
-
         <div class="features">
-
-
-
           <div class="packages-thumb"> <img src="img-w/themes//assets/images/air-ticket.png" alt="air-ticket" width="" height=""> </div>
-
-
-
           <h3>Air-Tickets at Rock-Bottom Prices</h3>
-
-
-
           <a href="flights/index.html" title="Read More" class="readmore-btn">Read More</a> </div>
-
-
-
       </div>
-
-
-
       <div class="col-lg-3 col-md-3 margin-btm-mobile">
-
-
-
         <div class="features">
-
-
-
           <div class="packages-thumb"> <img src="img-w/themes//assets/images/additional-discount.png" alt="additional-discount" width="" height=""> </div>
-
-
-
           <h3>Additional Discounts on Group Travels</h3>
-
-
-
           <a href="group-travel/index.html" title="Read More" class="readmore-btn">Read More</a> </div>
-
-
-
       </div>
-
-
-
       <div class="col-lg-3 col-md-3 margin-btm-mobile">
-
-
-
         <div class="features">
-
-
-
           <div class="packages-thumb"> <img src="img-w/themes//assets/images/man-icn.png" alt="man-icn" width="" height=""> </div>
-
-
-
           <h3>Best Services and Hospitality Guaranteed</h3>
-
-
-
           <a href="#" title="Read More" class="readmore-btn">Read More</a> </div>
-
-
-
       </div>
-
-
-
     </div>
-
-
-
   </div>
-
-
-
 </section>
-
-
-
-
-
-
-
 <section class="testimonials">
-
-
-
   <div class="container">
-
-
-
     <div class="row"> <span class="inline-center">Testimonials</span>
-
-
-
       <h2><span class="light">what our</span> clients say</h2>
-
-
-
       <div class="carousel slide" data-ride="carousel" id="quote-carousel">
-
-
-
-        <!-- Bottom Carousel Indicators -->
-
-
-
         <ol class="carousel-indicators">
-
-
-
           <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
-
-
-
           <li data-target="#quote-carousel" data-slide-to="1"></li>
-
-
-
           <li data-target="#quote-carousel" data-slide-to="2"></li>
-
-
-
            <li data-target="#quote-carousel" data-slide-to="3"></li>
-
-
-
             <li data-target="#quote-carousel" data-slide-to="4"></li>
-
-
-
-        </ol>
-
-
-
-        <!-- Carousel Slides / Quotes -->
-
-
-
         <div class="carousel-inner">
-
-
-
-          <!-- Quote 1 -->
-
-
-
           <div class="item active">
-
-
-
             <div class="row">
-
-
-
               <div class="col-sm-12">
-
-
-
                 <p>&ldquo;Excellent Services and Support!!! They had sent me an email of their products and plan, and I am definitely going to save and use it saving for future reservations.&rdquo;</p>
-
-
-
                 <small><strong>Leroy Miles</strong></small> </div>
-
-
-
             </div>
-
-
-
           </div>
-
-
-
-          <!-- Quote 2 -->
-
-
-
           <div class="item">
-
-
-
             <div class="row">
-
-
-
               <div class="col-sm-12">
-
-
-
                 <p>&ldquo;I asked the agent to put my booking on hold for a day, as my holiday was not confirmed so far. I called next day and asked them to cancel my tickets, as I'd change of plan and the agent didn't even miss a beat and got what I wanted. Thank You!&rdquo; </p>
-
-
-
                 <small><strong>Bruce Combs</strong></small> </div>
-
-
-
             </div>
-
-
-
           </div>
-
-
-
-          
-
-
-
           <div class="item">
-
-
-
             <div class="row">
-
-
-
               <div class="col-sm-12">
-
-
-
                 <p>&ldquo;Awesome customer services by Lewis. He was very patient and friendly with me and helped me to understand each and everything. I've used a couple of other travel agents and services, but got the lowest fare only with We.&rdquo; </p>
-
-
-
                 <small><strong>Ema Watson</strong></small> </div>
-
-
-
             </div>
-
-
-
           </div>
-
-
-
-          
-
-
-
           <div class="item">
-
-
-
             <div class="row">
-
-
-
               <div class="col-sm-12">
-
-
-
                 <p>&ldquo;I was provided with a choice of flights, flight-route connectivity and fare were quite affordable. Appreciate We's client service.&rdquo; </p>
-
-
-
                 <small><strong>John Hadden</strong></small> </div>
-
-
-
             </div>
-
-
-
           </div>
           <div class="item">
             <div class="row">
@@ -996,55 +561,30 @@ else{
 
     </div>
     <div id="abc" class="tab-pane fade">
-
       <div class="row">
-
 	      <div class="col-md-3">
-
 		  <div class="hsk">
-
 		    <ul class="list-unstyled">
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/chicago-to-europe/index.html">Chicago To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/cincinnati-to-europe/index.html">Cincinnati To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/dallas-to-europe/index.html">Dallas To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/denver-to-europe/index.html">Denver To Europe</a></li>
-
 			 </ul>
-
 			 </div>
-
 		  </div>
-
 		  <div class="col-md-3">
-
 		   <div class="hsk">
-
 		     <ul class="list-unstyled">
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/houston-to-europe/index.html">Houston To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/los-angeles-to-europe/index.html">Los Angeles To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/miami-to-europe/index.html">Miami To Europe</a></li>
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/minneapolis-to-europe/index.html">Minneapolis To Europe</a></li>
-
 			 </ul>
-
 		  </div>
-
 		  </div>
-
 		  <div class="col-md-3">
-
 		  <div class="hsk">
-
 		     <ul class="list-unstyled">
-
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/new-york-to-europe/index.html">New York To Europe</a></li>
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/newark-new-jersey-to-europe/index.html">Newark New Jersey To Europe</a></li>
 			    <li><i class="fa fa-plane" aria-hidden="true"></i> <a href="http://Example.net/eu/salt-lake-city-to-europe/index.html">Salt Lake City To Europe</a></li>
@@ -1102,38 +642,23 @@ else{
        <br>
      <br>
   </div>
-
 </div>
-
 </div>
-
 </div>
-
 <!-- Linking Tab Container Close here-->
   <div class="container" style="margin-bottom:0px;padding:20px;">
-
     <div class="row">
-
       <div class="col-md-4"> <a href="http://www.Example.net"><img src="http://Example.net/img-w/themes//assets/images/logo.png" style="margin-top:6px;width:250px;" alt="logo"></a>
-
         <p>We promises you reasonable deals on flights & holidays from USA to around the world. We'll beat any comparable airfare quote and that's our guarantee.<br />
-
           <br /> 
-
           *Fares are for round trip or as put online, Fares are all inclusive of fuel surcharges, our service fees and other taxes. We suggest you to book 21 days in advance to get the best deal.Fares displayed are based on historical data, can change and cannot be guaranteed at the time of booking. <br />
-
          <h4 class="comapny">Contact Us</h4>
-
               <ul class="list-unstyled who margin-bottom-30">
-
                 <li style="list-style:none;"> <i class="fa fa-home"></i> 14400 SW 88th St Ste 225, Miami, FL 33186</li>
-
                 <li style="list-style:none;"> <i class="fa fa-envelope"></i> contact@Example.net</li>
-
                 <li style="list-style:none;"> <i class="fa fa-phone"></i> 1-800-261-1917</li>
-
               </ul>
-         <!-- .--></p>
+         </p>
       </div>
       <div class="col-md-8">
         <div class="row">
@@ -1197,7 +722,7 @@ else{
 <section class="footer_bar">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6"> Copyright © 2017 We, LLC | All Rights Reserved</a>
+      <div class="col-sm-6"> Copyright © 2017 We, LLC | All Rights Reserved
          </div>
       <div class="col-sm-6">
       <a href="https://www.facebook.com/We-1323767114325029/"><i class="fa fa-facebook fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://twitter.com/We"><i class="fa fa-twitter fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://plus.google.com/u/0/111190464607563761764"><i class="fa fa-google-plus fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://www.linkedin.com/company/We"><i class="fa fa-linkedin fottericons_new" style="padding-top: 10px;"></i></a>
@@ -1214,60 +739,33 @@ else{
         var chkYes = document.getElementById("chkYes");
         var dvPassport = document.getElementById("dvPassport");
         dvPassport.style.display = chkYes.checked ? "block" : "none";
-
     }
-
 </script>
-
 <script>
 $(function () {
-
     $("#depart-date").datepicker({
-
          minDate: 0,
-
         changeMonth: true,
-
         numberOfMonths: 2,
-
         onClose: function (selectedDate) {
-
             $("#return-date").datepicker("option", "minDate", selectedDate);
-
         }
-
     });
-
     $("#return-date").datepicker({
-
         defaultDate: "+1w",
-
     changeMonth: true,
-
         numberOfMonths: 2,
-
         onClose: function () {
-
                 var dt1 = $('#depart_date').datepicker('getDate');
-
                 console.log(dt1);
-
                 var dt2 = $('#return_date').datepicker('getDate');
-
                 if (dt2 <= dt1) {
-
                     var minDate = $('#return_date').datepicker('option', 'minDate');
-
                    // $('#return_date').datepicker('setDate', minDate);
-
                 }
-
             }
-
     });
-
 });
-
 </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
