@@ -4,27 +4,16 @@
  <?php if(isset($_POST['footer_form']))
  {
     $name=$_POST['name'];
-
     $msg=$_POST['msg'];
-
     $wanttogo=$_POST['wanttogo'];
-
     $email=$_POST['email'];
-
     $mobile=$_POST['mobile'];
-
     $to = "info@flightsgogo.com";
-
     $subject = "Planning your vacation query";
-
     $header = "From:".$email." \r\n";
-
     $header .= "MIME-Version: 1.0\r\n";
-
     $header .= "Content-type: text/html\r\n";
-
     $message="   Sent from Example.net <br> <br> $name <br> $mobile <br> $wanttogo <br> $msg <br>  $email <br>";
-
     mail($to,$subject,$message,$header);
  }
  ?>
@@ -67,13 +56,10 @@ background-color: #003b54!important;
     <div id="offer-carousel" class="carousel slide" data-ride="carousel">
       <a class="left carousel-control" href="#offer-carousel" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#offer-carousel" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
       <div class="carousel-inner best-offer-slider" role="listbox">
-
         <div class="item active">
           <div class="col-lg-4 col-md-4 margin-btm-mobile">
             <div class="offer-slide-thumb"> <img src="img-w/themes//assets/images/offer-2.jpg" alt="Offer-1">
-
             </div>
-
             <div class="offer-overview">
               <div class="col-lg-8 overview">
                 <h3>New York to Chicago</h3>
@@ -665,51 +651,29 @@ else{
           <div class="col-md-5 col-md-offset-1 col-sm-6">
                    <h4>We</h4>
 <ul ><li id="menu-item-4408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4408"><a href="http://Example.net/about-us/index.html">About us</a></li>
-
 <li id="menu-item-4409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4409"><a href="http://Example.net/affiliates/index.html">Affiliates</a></li>
-
 <li id="menu-item-4410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4410"><a href="http://Example.net/contact-us/index.html">Contact us</a></li>
-
 <li id="menu-item-4411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4411"><a href="http://Example.net/disclaimer/index.html">Disclaimer</a></li>
-
 <li id="menu-item-4412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4412"><a href="http://Example.net/privacy-policy/index.html">Privacy Policy</a></li>
-
 <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4413"><a href="http://Example.net/terms-and-conditions/index.html">Terms and Conditions</a></li>
-
 <li id="menu-item-4691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4691"><a href="http://Example.net/corporate-travel/index.html">Corporate Travel</a></li> 
-
 <li id="menu-item-4532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4532"><a href="http://Example.net/career/index.html">Careers</a></li>
-
 </ul>             <h4>Travel Extras</h4>
-
             <ul ><li id="menu-item-4448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4448"><a href="https://www.traveldocs.com/">Travel Documents</a></li>
-
       <li id="menu-item-4448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4448"><a href="http://Example.net/sitemap.html">Sitemap</a></li>
 </ul>            </div>
           <div class="col-md-6 col-sm-6">
-
                  <h4>Customer Resources</h4>
-
             <ul ><li id="menu-item-4441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4441"><a href="http://Example.net/form.pdf">Credit Card Authorizations</a></li>
-
 <li id="menu-item-4449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4449"><a href="http://Example.net/cancellation-policy/index.html">Cancellation Policy</a></li>
-
 <li id="menu-item-4789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4789"><a href="http://Example.net/faq/index.html">FAQ</a></li>
-
 <li id="menu-item-4833" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4833"><a href="http://Example.net/refer-and-earn/index.html">Refer &#038; Earn</a></li>
-
 </ul>            <h4>Travel Extras</h4>
-
             <ul > 
-
 <li id="menu-item-4452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4452"><a href="https://www.seatguru.com/">Airline Seat Map</a></li>
-
 <li id="menu-item-4453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4453"><a href="http://www.iflybags.com/">Baggage Fee</a></li>
-
 <li id="menu-item-4785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4785"><a href="http://www.xe.com/">Currency Exchange</a></li>
-
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841"><a href="http://www.tollfreeairline.com/">Airline Toll free Number</a></li>
-
 </ul>   
 <h4>We Accept</h4>
             <div class="payment-img"><img src="http://www.Example.net/img-w/themes//assets/images/payment.jpg"> </div>     
@@ -728,7 +692,6 @@ else{
       <a href="https://www.facebook.com/We-1323767114325029/"><i class="fa fa-facebook fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://twitter.com/We"><i class="fa fa-twitter fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://plus.google.com/u/0/111190464607563761764"><i class="fa fa-google-plus fottericons_new" style="padding-top: 10px;"></i></a> <a href="https://www.linkedin.com/company/We"><i class="fa fa-linkedin fottericons_new" style="padding-top: 10px;"></i></a>
       </div>
        <div class="col-sm-12">
-
         <p  style="width:100%;padding:10px;font-size: 14px;line-height: 20px;text-align: justify;">All content on fight4travel.com is the property of We Inc or its content suppliers and protected under the international and United States copyright laws. Anything duplicated or copied from this website without explicit written approval will be deemed a copyright violation and may be liable to face legal action.</p>
       </div>
     </div>
