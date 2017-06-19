@@ -27,25 +27,6 @@ if(isset($fs3)){ ?>
 <link rel="stylesheet" id="genericons-css" href="img-w/themes//genericons/genericons.css?ver=3.2" type="text/css" media="all">
 <link rel="stylesheet" id="twentyfifteen-style-css" href="img-w/themes//style.css?ver=4.7.4" type="text/css" media="all">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <style>
 
 @media only screen and (max-device-width:480px){
